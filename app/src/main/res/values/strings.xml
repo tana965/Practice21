@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practice21</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_pause">Pause</string>
+    <string name="btn_reset">Reset</string>
+    <string name="btn_lap">Lap</string>
+</resources>
